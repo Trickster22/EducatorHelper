@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="statusBarColor">#D3D4ED</color>
+    <color name="buttonsColor">#ECEDF6</color>
+    <color name="backgroundColor">#B7B8DE</color>
+    <color name="appBarColor">#D3D4ED</color>
+    <color name="itemColor">#D3D4ED</color>
+    <color name="black">#000000</color>
+    <color name="gray">#474747</color>
+    <color name="white">#FFFFFF</color>
+    <color name="purple">#7D62BC</color>
+    <color name="red">#FF0000</color>
+</resources>

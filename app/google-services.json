@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380584465721",
+    "project_id": "educatorhelper-88b52",
+    "storage_bucket": "educatorhelper-88b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380584465721:android:5b28ddde3abdaf7eb7c4e8",
+        "android_client_info": {
+          "package_name": "com.msale.educatorhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380584465721-q7ntbdjfe8atrdrhv065hgl3j4t89hd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6Anu41HIlkzDGf_59rKLnIkarMqoqqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380584465721-q7ntbdjfe8atrdrhv065hgl3j4t89hd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

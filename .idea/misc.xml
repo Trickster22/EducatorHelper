@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/backgrouns_splash.xml" value="0.15" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/baseline_done_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/custom_edit.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/custom_email_icon.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/custom_input.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/custom_lock_icon.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/error_input.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/groupname_card.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.215625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_baseline_email_24_focused.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_baseline_lock_24_focused.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/drawable/ic_round.xml" value="0.215625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/activity_enter.xml" value="0.5" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/activity_group.xml" value="0.5" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/activity_student.xml" value="0.5" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/custom_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/layout/student_layout_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/menu/group_menu.xml" value="0.1890625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/menu/student_menu.xml" value="0.1890625" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/msale/AndroidStudioProjects/EducatorHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

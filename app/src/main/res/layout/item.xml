@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/itemCV"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="@color/itemColor"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/itemLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginVertical="8dp"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ФИО"
+                android:id="@+id/nametv"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:layout_weight="2"/>
+
+            <TextView
+                android:layout_width="40sp"
+                android:layout_height="wrap_content"
+                android:text="M1"
+                android:id="@+id/m1tv"
+                android:textSize="20sp"
+                android:textColor="@color/gray"
+                android:paddingStart="4dp"
+                android:paddingEnd="4dp"
+                />
+            <TextView
+                android:layout_width="40sp"
+                android:layout_height="wrap_content"
+                android:id="@+id/m2tv"
+                android:text="M2"
+                android:textColor="@color/gray"
+                android:paddingStart="4dp"
+                android:paddingEnd="4dp"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
